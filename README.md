@@ -16,7 +16,9 @@ I build production LLM systems: agent platforms, RAG pipelines, and the orchestr
 ### Stack
 
 **Languages** Python · C# / ASP.NET Core · TypeScript / React · SQL
+
 **GenAI/LLM** LLM orchestration · RAG · QLoRA · Vector DBs (Pinecone, ChromaDB) · Hugging Face · LLM evaluation & LLM-as-judge · MCP
+
 **Cloud & infra** AWS Bedrock · Lambda · DynamoDB · API Gateway · S3 · IAM · Terraform · OpenShift · CI/CD · LLMOps
 
 ---
