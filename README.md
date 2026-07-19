@@ -1,18 +1,16 @@
 # Guadalupe Higuera
 
-**Software Engineer — GenAI Platform & Agentic AI**
+**AI Engineer**
 
-I build production LLM systems: agent platforms, RAG pipelines, and the orchestration, evaluation, and observability infrastructure that keeps them reliable at scale.
-
+I build apps and AI powered systems
 ---
 
 ### What I work on
 
-- **Agentic AI** — agent configuration, orchestration, and tool/function-calling; human-in-the-loop controls and guardrails
-- **RAG & retrieval** — vector search, chunking strategy, LLM-as-judge evaluation
-- **LLM infrastructure** — orchestration (Semantic Kernel, Bedrock Agents), QLoRA fine-tuning, LLMOps, observability
-- **Cloud** — AWS (Bedrock, Lambda, DynamoDB, API Gateway, S3, IAM), Terraform, CI/CD
-
+- **Agentic AI**
+- **RAG & retrieval**
+- **LLM infrastructure**
+  
 ### Stack
 
 **Languages** Python · C# / ASP.NET Core · TypeScript / React · SQL
